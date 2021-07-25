@@ -10,7 +10,7 @@ enum Color {
 // custom values
 enum Size {
   Big = 'big',
-  Norma = 'normal',
+  Normal = 'normal',
   Small = 'small',
 }
 
